@@ -1,0 +1,1 @@
+Python application to play a trivia game using the OpenTrivia DB
